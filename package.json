@@ -1,0 +1,28 @@
+{
+  "name": "nostr-ui",
+  "version": "0.0.0",
+  "description": "nostr-ui",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostr-components/nostr-ui.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostr-components/nostr-ui/issues"
+  },
+  "homepage": "https://github.com/nostr-components/nostr-ui#readme",
+  "dependencies": {
+    "dior": "^0.0.5"
+  }
+}
